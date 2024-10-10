@@ -35,13 +35,7 @@ Dentro de gitpod existen dos formas básicas de trabajo, la primera es usar Visu
 
 La segunda forma es una basada en comandos a través del shell, al igual que el caso anterior, su uso estará determinado por el tipo de práctica a realizar.
 
-Independientemente del tipo de práctica, el detalle de cada una de ellas se encuentra publicada en un archivo escrito en markdown (.md), es así que para iniciar cada práctica debe abrir y visualizar el archivo que corresponde a la semana académica que se encuentra cursando, por ejemplo: si está en la semana 1 del primer bimestre, el detalle de la práctica estará en el archivo con nombre b1s1.md y ese archivo es el que deberá abrir.
 
-Para abrir el archivo con el detalle de las prácticas debe ejecutar el comando:
-
-```shell
-glow
-```
 
 
 
